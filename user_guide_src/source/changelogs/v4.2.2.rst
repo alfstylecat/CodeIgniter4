@@ -20,7 +20,7 @@ BREAKING
 Enhancements
 ************
 
-none.
+- New ``when()`` method on the ``Query Builder`` for conditional queries.
 
 Changes
 *******
